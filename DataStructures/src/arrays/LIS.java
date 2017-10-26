@@ -1,4 +1,4 @@
-package demo;
+package arrays;
 
 //Java program to find length of longest increasing subsequence
 //in O(n Log n) time
